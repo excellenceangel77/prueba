@@ -1,0 +1,15 @@
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\bin\Debug\net6.0\Domain.dll
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\bin\Debug\net6.0\DataAccess.dll
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\bin\Debug\net6.0\DataAccess.pdb
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.dll
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Desarrollo\CODE\Eje01\WinFormsApp1\Domain\obj\Debug\net6.0\ref\Domain.dll
