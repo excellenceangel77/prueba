@@ -101,7 +101,7 @@ namespace WinFormsApp1
                     var validLogin = user.LoginUser(txtuser.Text, txtpass.Text);
                     if (validLogin == true)
                     {
-                        msgError("Validacion exitosa!!! ya puedes almorzar");
+                        msgError("Validacion exitosa!!! ya tienes conexion ssh");
                     }
                     else
                     {
